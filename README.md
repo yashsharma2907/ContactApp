@@ -2,7 +2,7 @@
 This is a simple phone contacts app built using Expo, which allows you to view and search contacts on your phone.
 When the app is launched, it will display the contacts from your phone, including the name and number.
 
-<h3><a href= " https://expo.dev/artifacts/eas/5XPNarQ8Pcb88irhvdbJSg.aab" >Click here to Download App </a></h3>
+<h3><a href= "https://expo.dev/artifacts/eas/5XPNarQ8Pcb88irhvdbJSg.aab" >Click here to Download App </a></h3>
 
 # Features
 View all contacts with their names and numbers.
